@@ -40,7 +40,7 @@ Actividad 3 trabajando con listas, tuplas conjuntos y diccionarios
 
 -resultado
 -
-![image](https://github.com/user-attachments/assets/f6892ab3-3064-449e-a440-e178e3b04511)
+![image](https://github.com/user-attachments/assets/e1527fa3-53d7-47f3-8ec0-4fc1925785ee)
 
 
 
